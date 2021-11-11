@@ -1,1 +1,2 @@
 # A-Book-Retrieval-Application
+Project composed of different components such as a crawler, indexer, and query processing components and  implement these components primarily in python. Also used Natural Language Processing techniques tokenize the words and remove stop words. Further investigate if more NLP techniques are needed such as changing the words to lower casing, stemming and lemmatization would be necessary.
